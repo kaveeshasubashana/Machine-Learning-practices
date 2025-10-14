@@ -53,7 +53,22 @@ Sample data:
 ## Installation
 
 1. Clone the repository:
-
-```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+
+Usage
+Open the project in Jupyter Notebook or VS Code.
+
+Run the cells in order:
+
+Import libraries
+
+Load the dataset
+
+Explore data
+
+Train the Linear Regression model
+
+Make predictions
+
+Modify the input to predict views for different numbers of videos.
