@@ -1,6 +1,6 @@
 # Machine Learning Practice
 
-Welcome to the **Machine Learning Practice** repository! 🎉
+## Welcome to the **Machine Learning Practice** repository! 🎉
 
 This repository is dedicated to learning and experimenting with **machine learning concepts, algorithms, and projects**. Here, I will practice different ML techniques, build models, and explore datasets to strengthen my understanding of this exciting field.
 
