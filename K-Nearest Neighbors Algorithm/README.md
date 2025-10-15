@@ -53,6 +53,8 @@ The dataset contains 150 instances of Iris flowers with 4 features:
 ## Conclusion
 This project demonstrates how K-Nearest Neighbors can be used to classify Iris flowers based on physical features. It is a great starting point for understanding machine learning classification algorithms and their practical implementation.
 
+#FINAL RESULT(tested values and predicted values)
+<img width="278" height="463" alt="image" src="https://github.com/user-attachments/assets/02b1ce72-24d7-479f-ae6d-bac5a3779d09" />
 
 
 
