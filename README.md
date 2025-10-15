@@ -12,13 +12,22 @@ This repository is dedicated to learning and experimenting with **machine learni
 
 ## Learning Goals
 
-- Understand core machine learning algorithms like:
+Machine learning can be broadly divided into two main types based on the kind of data and the goal of the task:
+👉 Supervised Learning
+👉 Unsupervised Learning
+
+- Understand core machine learning algorithms ( Supervised Learning)like:
   - Linear Regression
   - Logistic Regression
   - Decision Trees
   - Random Forests
   - K-Nearest Neighbors
   - Neural Networks
+-understanding Unsupervised Learning Algorithms
+  - K-Means Clustering
+  - Hierarchical Clustering
+  - Principal Component Analysis (PCA)
+  - DBSCAN
 - Practice data preprocessing, feature engineering, and model evaluation.
 - Apply ML concepts to real-world datasets.
 - Build simple ML projects for hands-on learning.
