@@ -16,7 +16,7 @@ Machine learning can be broadly divided into two main types based on the kind of
 👉 Supervised Learning
 👉 Unsupervised Learning
 
-- Understand core machine learning algorithms ( Supervised Learning)like:
+- Understand core machine learning algorithms like:
   - Linear Regression
   - Logistic Regression
   - Decision Trees
