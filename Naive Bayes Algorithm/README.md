@@ -45,32 +45,15 @@ In this project:
 
 ## ⚙️ How Naive Bayes Algorithm Works
 
-The **Naive Bayes classifier** uses the concept of conditional probability and assumes that all features are **independent** of each other (the “naive” assumption).
+⚙️ How Naive Bayes Algorithm Works (Simple Explanation)
 
-### Step-by-step process:
-1. **Calculate Prior Probability**  
-   Determine the probability of each class (e.g., `present` or `absent`).
+Learn from data – The algorithm looks at the training data and calculates how often each feature value appears for each class.
 
-   \[
-   P(\text{Kyphosis}) = \frac{\text{Number of samples with that class}}{\text{Total samples}}
-   \]
+Calculate probabilities – It finds the probability of each class (like “Kyphosis present” or “absent”) based on the data.
 
-2. **Calculate Likelihood**  
-   For each feature, calculate the probability of that feature value given the class.
+Apply Bayes’ theorem – When new data comes, it uses Bayes’ formula to calculate which class is more likely.
 
-   \[
-   P(\text{Feature}|\text{Class})
-   \]
-
-3. **Apply Bayes’ Theorem**  
-   Combine prior and likelihood for each class to compute the posterior probability.
-
-   \[
-   P(\text{Class}|\text{Features}) \propto P(\text{Class}) \times \prod P(\text{Feature}|\text{Class})
-   \]
-
-4. **Predict Class**  
-   Choose the class with the **highest posterior probability**.
+Make prediction – The class with the highest probability is chosen as the prediction.
 
 ---
 
