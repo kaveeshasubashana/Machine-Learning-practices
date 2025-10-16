@@ -17,20 +17,20 @@ Machine learning can be broadly divided into two main types based on the kind of
 👉 Unsupervised Learning
 
 - Understand core machine learning algorithms like:
-  - Linear Regression
-  - Logistic Regression
-  - Decision Trees
-  - Random Forests
-  - K-Nearest Neighbors
-  - Neural Networks
+    - Linear Regression
+    - Logistic Regression
+    - Decision Trees
+    - Random Forests
+    - K-Nearest Neighbors
+    - Neural Networks
 -understanding Unsupervised Learning Algorithms
-  - K-Means Clustering
-  - Hierarchical Clustering
-  - Principal Component Analysis (PCA)
-  - DBSCAN
-- Practice data preprocessing, feature engineering, and model evaluation.
-- Apply ML concepts to real-world datasets.
-- Build simple ML projects for hands-on learning.
+    - K-Means Clustering
+    - Hierarchical Clustering
+    - Principal Component Analysis (PCA)
+    - DBSCAN
+    - Practice data preprocessing, feature engineering, and model evaluation.
+    - Apply ML concepts to real-world datasets.
+    - Build simple ML projects for hands-on learning.
 
 ## How to Use
 
